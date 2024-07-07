@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { WaveLoader } from 'react-loaders-kit';
 import './Loading.css';
+import logo from '/public/logo2.png';
 
 const getCssVariable = (variable) => {
     return getComputedStyle(document.documentElement).getPropertyValue(variable);
@@ -76,7 +77,7 @@ const Loading = ({ isPageLoaded, retryLoadingPage }) => {
     if (showLogo) {
         return (
             <div className="loading-container">
-                <img src="/logo2.png" alt="Loading Logo" className="loading-logo" />
+                <img src={logo} alt="Loading Logo" className="loading-logo" />
             </div>
         );
     }
