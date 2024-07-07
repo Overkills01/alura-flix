@@ -76,7 +76,7 @@ const Loading = ({ isPageLoaded, retryLoadingPage }) => {
     if (showLogo) {
         return (
             <div className="loading-container">
-                <img src="./src/logo2.png" alt="Loading Logo" className="loading-logo" />
+                <img src="./public/logo2.png" alt="Loading Logo" className="loading-logo" />
             </div>
         );
     }
