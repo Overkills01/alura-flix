@@ -1,0 +1,222 @@
+.container__new-video {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: var(--color-white);
+    width: 100%;
+    max-width: 64.75rem;
+    padding: 2rem;
+    margin: 0 auto;
+    gap: 2rem;
+}
+
+.new-video__header {
+    text-align: center;
+}
+
+.new-video__title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+}
+
+.new-video__subtitle {
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.new-video__form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    max-width: 73.25rem;
+}
+
+.form-section {
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 1.5rem;
+}
+
+.form-section__left,
+.form-section__right {
+    flex: 1;
+    margin: 0 1rem;
+}
+
+.form-section__left:last-child,
+.form-section__right:last-child {
+    margin-right: 0;
+}
+
+.new-video__form-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+}
+
+.new-video__form-label {
+    display: block;
+    margin-bottom: 0.4rem;
+    font-size: 1.25rem;
+}
+
+.new-video__form-label.error-label {
+    color: var(--color-error);
+}
+
+.new-video__form-input {
+    position: relative;
+    margin-top: 0.5rem;
+    width: 100%;
+    padding: 0.8rem 0;
+    font-size: 1.25rem;
+    border: none;
+    border-bottom: 2px solid var(--color-light-gray);
+    background-color: transparent;
+    margin-bottom: 1rem;
+    color: var(--color-light-gray);
+    transition: border-color 0.3s ease;
+}
+
+.new-video__form-input::placeholder {
+    color: transparent;
+    transition: color 0.3s ease;
+}
+
+.new-video__form-input:focus::placeholder {
+    color: var(--color-light-gray);
+}
+
+.new-video__form-input:focus {
+    border-bottom: 2px solid var(--color-frontend);
+    outline: none;
+}
+
+.new-video__form-input.active + .input-underline {
+    width: 100%;
+    transition: width 0.3s ease;
+}
+
+.new-video__form-input.error {
+    border-bottom: 2px solid var(--color-error);
+}
+
+.new-video__form-option {
+    position: relative; /* Añadido */
+    width: 100%;
+    padding: 0.8rem 0.8rem; /* Ajustado el padding */
+    font-size: 1.25rem;
+    border: none;
+    border-bottom: 2px solid var(--color-light-gray);
+    background-color: transparent;
+    color: var(--color-light-gray);
+    transition: border-color 0.3s ease;
+    outline: none;
+    box-sizing: border-box;
+}
+
+.new-video__form-option:focus {
+    border-bottom: 2px solid var(--color-frontend);
+}
+
+.new-video__form-option::after {
+    /* Línea animada */
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 2px;
+    background-color: var(--color-frontend);
+    transform-origin: bottom left;
+    transform: scaleX(0);
+    transition: transform 0.3s ease;
+}
+
+.new-video__form-option:focus::after {
+    transform: scaleX(1);
+}
+
+.new-video-page * {
+    overflow-x: initial; /* Restaurar el overflow-x inicialmente permitido */
+}
+
+.new-video__dropdown-option {
+    padding: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    color: var(--color-white-smoke);
+    background-color: var(--color-bg);
+    margin-top: 0;
+}
+
+.new-video__dropdown-option:hover {
+    background-color: var(--color-blue);
+    color: var(--color-white);
+    font-weight: bold;
+}
+
+.new-video__form-textarea {
+    width: 100%;
+    padding: 0.8rem 0;
+    font-size: 1.25rem;
+    border: none;
+    border-bottom: 2px solid var(--color-light-gray);
+    background-color: transparent;
+    color: var(--color-white);
+    resize: vertical;
+    transition: border-color 0.3s ease;
+}
+
+.new-video__form-textarea:focus {
+    border-bottom: 2px solid var(--color-frontend);
+    outline: none;
+}
+
+.error-message {
+    color: var(--color-error);
+    font-size: 1rem;
+    background-color: transparent;
+}
+
+/* Line Animation */
+.input-underline {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background-color: var(--color-frontend);
+    transition: width 0.3s ease;
+}
+
+/* MEDIA QUERIES */
+@media screen and (max-width: 768px) {
+    .new-video__title {
+        font-size: 2rem; /* Ajusté el tamaño de la fuente */
+    }
+    .new-video__description {
+        font-size: 0.938rem;
+    }
+    .new-video__form {
+        max-width: 100%;
+    }
+    .new-video__form-title {
+        font-size: 1.9rem; /* Ajusté el tamaño de la fuente */
+    }
+
+    .form-section {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .form-section__left,
+    .form-section__right {
+        margin: 0;
+    }
+}
