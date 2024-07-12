@@ -14,10 +14,10 @@ El título del video seleccionado se mostrará en el banner.
 
 ## Tecnologías Utilizadas
 
-# React: Una biblioteca de JavaScript para construir interfaces de usuario.
-# Vite: Un entorno de desarrollo frontend rápido.
-# CSS: Para el diseño y las animaciones.
-# Vercel: Para el despliegue del proyecto.
+- React: Una biblioteca de JavaScript para construir interfaces de usuario.
+- Vite: Un entorno de desarrollo frontend rápido.
+- CSS: Para el diseño y las animaciones.
+- Vercel: Para el despliegue del proyecto.
 
 ## Diseño
 
