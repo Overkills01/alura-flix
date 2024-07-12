@@ -4,19 +4,20 @@
 
 ## Descripción
 
-Alura Flix es una plataforma de streaming de videos donde los usuarios pueden navegar y ver diferentes videos. La aplicación está diseñada con una interfaz moderna y características interactivas para mejorar la experiencia del usuario.
+Alura Flix es una plataforma de streaming de videos donde los usuarios pueden navegar y ver diferentes videos con funcionalidades como listar, registrar, actualizar y eliminar videos. La aplicación está diseñada con una interfaz moderna y características interactivas para mejorar la experiencia del usuario.
 
 ## Uso
 
 Navega por la lista de videos disponibles.
 Haz clic en un video para verlo en la pantalla principal.
 El título del video seleccionado se mostrará en el banner.
-Utiliza el ícono de la lupa para buscar videos específicos.
-Tecnologías Utilizadas
-React: Una biblioteca de JavaScript para construir interfaces de usuario.
-Vite: Un entorno de desarrollo frontend rápido.
-CSS: Para el diseño y las animaciones.
-Vercel: Para el despliegue del proyecto.
+
+## Tecnologías Utilizadas
+
+# React: Una biblioteca de JavaScript para construir interfaces de usuario.
+# Vite: Un entorno de desarrollo frontend rápido.
+# CSS: Para el diseño y las animaciones.
+# Vercel: Para el despliegue del proyecto.
 
 ## Diseño
 
