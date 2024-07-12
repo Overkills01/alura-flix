@@ -20,5 +20,5 @@ Vercel: Para el despliegue del proyecto.
 
 ## Diseño
 
-El diseño de éste proyecto se basó en el figma proporcionado por Alura, puedes ver el figma [aquí](https://www.figma.com/design/fq7mKIvvVXYylv8eti3hjm/New-AluraFlix---ESP?node-id=18759-221&t=IH7WsrXTHgOkpEWh-0). Se agregaron algunas animaciiones y cambios menores al diseño pero sin salir del modelo original
+El diseño de éste proyecto se basó en el figma proporcionado por Alura, puedes ver el figma [aquí](https://www.figma.com/design/fq7mKIvvVXYylv8eti3hjm/New-AluraFlix---ESP?node-id=18759-221&t=IH7WsrXTHgOkpEWh-0). Se agregaron algunas animaciones y cambios menores al diseño pero sin salir del modelo original
 
