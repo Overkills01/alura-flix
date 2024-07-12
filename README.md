@@ -4,7 +4,9 @@
 
 ## Descripción
 
-Alura Flix es una plataforma de streaming de videos donde los usuarios pueden navegar y ver diferentes videos con funcionalidades como listar, registrar, actualizar y eliminar videos. La aplicación está diseñada con una interfaz moderna y características interactivas para mejorar la experiencia del usuario.
+Alura Flix es una plataforma de streaming de videos donde los usuarios pueden navegar y ver diferentes videos con funcionalidades como listar, registrar, actualizar y eliminar videos. La aplicación está diseñada con una interfaz moderna y características interactivas para mejorar la experiencia del usuario. Además, el diseño responsivo garantiza que la plataforma sea accesible desde cualquier dispositivo, ya sea una computadora de escritorio, una tableta o un teléfono móvil.
+
+Alura Flix no solo proporciona una experiencia visual agradable, sino que también asegura un rendimiento óptimo gracias a la implementación de buenas prácticas en el desarrollo de software.
 
 ## Uso
 
