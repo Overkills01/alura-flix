@@ -1,8 +1,14 @@
-# React + Vite
+# Challenge AluraFlix
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+¡Bienvenido a Alura Flix! Este proyecto es una plataforma de videos inspirada en Netflix, creada con React y Vite. Puedes ver el sitio en vivo aquí.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Índice
+Descripción
+Instalación
+Uso
+Tecnologías Utilizadas
+Contribuciones
+
+# Descripción
+Alura Flix es una plataforma de streaming de videos donde los usuarios pueden navegar y ver diferentes videos. La aplicación está diseñada con una interfaz moderna y características interactivas para mejorar la experiencia del usuario.
