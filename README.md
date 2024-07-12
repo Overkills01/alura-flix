@@ -2,7 +2,7 @@
 
 ¡Bienvenido a **Alura Flix**! Este proyecto es una plataforma de videos desarrollada para el programa ONE, creada con React y Vite. Puedes ver el sitio en vivo [aquí](https://alura-flix-jade-gamma.vercel.app/).
 
---
+---
 ## Descripción
 
 Alura Flix es una plataforma de streaming de videos donde los usuarios pueden navegar y ver diferentes videos. La aplicación está diseñada con una interfaz moderna y características interactivas para mejorar la experiencia del usuario.
