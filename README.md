@@ -6,7 +6,10 @@
 ## Alura Flix
 
 ¡Bienvenido a **Alura Flix**! Este proyecto es una plataforma de videos desarrollada para el programa ONE, creada con React y Vite. Puedes ver el sitio deployado desde [aquí](https://alura-flix-jade-gamma.vercel.app/).
-En caso que decidas descargar el proyecto para usarlo de manera local, simplemente debes colocar el comando npm start en la terminal.
+
+En caso que decidas descargar el proyecto para usarlo de manera local, simplemente debes colocar el siguiente comando en la terminal: 
+
+npm start 
 
 ## Descripción
 
