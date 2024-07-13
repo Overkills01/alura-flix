@@ -9,7 +9,19 @@
 
 En caso que decidas descargar el proyecto para usarlo de manera local, simplemente debes colocar el siguiente comando en la terminal: 
 
-npm start
+<div align="center">
+  <input type="text" value="npm start" id="npmCommand" readonly style="width: 100px; padding: 5px; text-align: center; border: 1px solid #ccc; border-radius: 4px;">
+  <button onclick="copyToClipboard()" style="padding: 5px 10px; margin-left: 5px; background-color: #007BFF; color: white; border: none; border-radius: 4px; cursor: pointer;">Copiar</button>
+</div>
+
+<script>
+  function copyToClipboard() {
+    var copyText = document.getElementById("npmCommand");
+    copyText.select();
+    document.execCommand("copy");
+    alert("Comando copiado: " + copyText.value);
+  }
+</script>
 
 ## Descripción
 
