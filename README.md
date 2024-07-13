@@ -1,8 +1,52 @@
-# React + Vite
+<div align="center">
+  <img src="./public/logo2.png" alt="Logo Alura" width="300"/>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Alura Flix
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+¡Bienvenido a **Alura Flix**! Este proyecto es una plataforma de videos desarrollada para el programa ONE, creada con React y Vite. Puedes ver el sitio en vivo [aquí](https://alura-flix-jade-gamma.vercel.app/).
+
+## Descripción
+
+Alura Flix es una plataforma diseñada para gestionar vídeos, donde los usuarios pueden navegar y ver diferentes videos con funcionalidades como listar, registrar, actualizar y eliminar videos. La aplicación está diseñada con una interfaz moderna y características interactivas para mejorar la experiencia del usuario. Además, el diseño responsivo garantiza que la plataforma sea accesible desde cualquier dispositivo, ya sea una computadora de escritorio, una tableta o un teléfono móvil.
+
+Alura Flix no solo proporciona una experiencia visual agradable, sino que también asegura un rendimiento óptimo gracias a la implementación de buenas prácticas en el desarrollo de software.
+
+## Características 
+
+Gestión de Videos desde API Fake (JSON Server):
+
+- Listar Videos: Consultar y mostrar todos los videos disponibles en la API fake.
+- Registrar Videos: Añadir nuevos videos.
+- Actualizar Información de Videos: Modificar y actualizar los detalles de los videos almacenados en la API fake como titulo, nombre, imagen y url del video.
+- Eliminar Videos: Eliminar videos específicos de la API fake.
+
+
+
+
+
+
+
+Navega por la lista de videos disponibles.
+Haz clic en un video para verlo en la pantalla principal.
+El título del video seleccionado se mostrará en el banner.
+
+
+## Tecnologías Utilizadas
+
+- React: Una biblioteca de JavaScript para construir interfaces de usuario.
+- Vite: Un entorno de desarrollo frontend rápido.
+- CSS: Para el diseño y las animaciones.
+- Vercel: Para el despliegue del proyecto.
+
+## Diseño
+
+El diseño de éste proyecto se basó en el figma proporcionado por Alura, puedes ver el figma [aquí](https://www.figma.com/design/fq7mKIvvVXYylv8eti3hjm/New-AluraFlix---ESP?node-id=18759-221&t=IH7WsrXTHgOkpEWh-0). Se agregaron algunas animaciones y cambios menores al diseño pero sin salir del modelo original.
+
+
+
+ <!--  -->
+ <!-- -->
+ <!--  -->
+ <!--  -->
