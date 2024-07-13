@@ -1,4 +1,6 @@
-![Logo Alura](./public/logo2.png)
+<div align="center">
+  <img src="./public/logo2.png" alt="Logo Alura" width="300"/>
+</div>
 
 
 ## Alura Flix
