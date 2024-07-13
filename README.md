@@ -1,4 +1,11 @@
-![Logo Alura](./public/logo2.png)
+<!-- Utilizando CSS en línea para la animación -->
+<img src="./public/logo2.png" alt="Logo Alura" style="transition: transform 0.3s ease-in-out;">
+
+<!-- Utilizando CSS externo para la animación -->
+<img src="./public/logo2.png" alt="Logo Alura" class="animated-logo">
+
+``
+
 
 
 ## Alura Flix
