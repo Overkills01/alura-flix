@@ -5,7 +5,7 @@
 
 ## Alura Flix
 
-¡Bienvenido a **Alura Flix**! Este proyecto es una plataforma de videos desarrollada para el programa ONE, creada con React y Vite. Puedes ver el sitio en vivo [aquí](https://alura-flix-jade-gamma.vercel.app/).
+¡Bienvenido a **Alura Flix**! Este proyecto es una plataforma de videos desarrollada para el programa ONE, creada con React y Vite. Puedes ver el sitio deployado desde [aquí](https://alura-flix-jade-gamma.vercel.app/).
 
 ## Descripción
 
@@ -47,7 +47,7 @@ El diseño de éste proyecto se basó en el figma proporcionado por Alura, puede
 
 <div align="center">
   <img src="./public/1.png" alt="Logo Alura" width="300"/>
-  <img src="./public/2png" alt="Logo Alura" width="300"/>
+  <img src="./public/2.png" alt="Logo Alura" width="300"/>
   <img src="./public/3.png" alt="Logo Alura" width="300"/>
   <img src="./public/4.png" alt="Logo Alura" width="300"/>
 </div>
