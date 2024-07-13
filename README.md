@@ -1,4 +1,4 @@
-![Logo Alura](/logo2.png)
+![Logo Alura](.public/logo2.png)
 
 ## Alura Flix
 
