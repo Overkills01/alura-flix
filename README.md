@@ -9,7 +9,6 @@
 
 En caso que decidas descargar el proyecto para usarlo de manera local, simplemente debes colocar el siguiente comando en la terminal: 
 
-bash
 ```bash
 npm start
 ```
