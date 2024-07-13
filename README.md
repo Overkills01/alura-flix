@@ -5,7 +5,11 @@
 
 ## Alura Flix
 
-¡Bienvenido a **Alura Flix**! Este proyecto es una plataforma de videos desarrollada para el programa ONE, creada con React y Vite. Puedes ver el sitio en vivo [aquí](https://alura-flix-jade-gamma.vercel.app/).
+¡Bienvenido a **Alura Flix**! Este proyecto es una plataforma de videos desarrollada para el programa ONE, creada con React y Vite. Puedes ver el sitio deployado desde [aquí](https://alura-flix-jade-gamma.vercel.app/).
+
+En caso que decidas descargar el proyecto para usarlo de manera local, simplemente debes colocar el siguiente comando en la terminal: 
+
+npm start
 
 ## Descripción
 
@@ -23,16 +27,6 @@ Gestión de Videos desde API Fake (JSON Server):
 - Eliminar Videos: Eliminar videos específicos de la API fake.
 
 
-
-
-
-
-
-Navega por la lista de videos disponibles.
-Haz clic en un video para verlo en la pantalla principal.
-El título del video seleccionado se mostrará en el banner.
-
-
 ## Tecnologías Utilizadas
 
 - React: Una biblioteca de JavaScript para construir interfaces de usuario.
@@ -45,8 +39,9 @@ El título del video seleccionado se mostrará en el banner.
 El diseño de éste proyecto se basó en el figma proporcionado por Alura, puedes ver el figma [aquí](https://www.figma.com/design/fq7mKIvvVXYylv8eti3hjm/New-AluraFlix---ESP?node-id=18759-221&t=IH7WsrXTHgOkpEWh-0). Se agregaron algunas animaciones y cambios menores al diseño pero sin salir del modelo original.
 
 
-
- <!--  -->
- <!-- -->
- <!--  -->
- <!--  -->
+<div align="center">
+  <img src="./public/1.png" alt="Logo Alura" width="300"/>
+  <img src="./public/2.png" alt="Logo Alura" width="300"/>
+  <img src="./public/3.png" alt="Logo Alura" width="300"/>
+  <img src="./public/4.png" alt="Logo Alura" width="300"/>
+</div>
