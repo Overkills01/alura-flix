@@ -8,7 +8,20 @@ Alura Flix es una plataforma diseñada para gestionar vídeos, donde los usuario
 
 Alura Flix no solo proporciona una experiencia visual agradable, sino que también asegura un rendimiento óptimo gracias a la implementación de buenas prácticas en el desarrollo de software.
 
-## Uso
+## Características 
+
+Gestión de Videos desde API Fake (JSON Server):
+
+Listar Videos: Consultar y mostrar todos los videos disponibles en la API fake.
+Registrar Videos: Añadir nuevos videos.
+Actualizar Información de Videos: Modificar y actualizar los detalles de los videos almacenados en la API fake como titulo, nombre, imagen y url del video.
+Eliminar Videos: Eliminar videos específicos de la API fake.
+
+
+
+
+
+
 
 Navega por la lista de videos disponibles.
 Haz clic en un video para verlo en la pantalla principal.
