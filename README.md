@@ -9,7 +9,7 @@
 
 En caso que decidas descargar el proyecto para usarlo de manera local, simplemente debes colocar el siguiente comando en la terminal: 
 
-npm start 
+npm start
 
 ## Descripción
 
@@ -27,16 +27,6 @@ Gestión de Videos desde API Fake (JSON Server):
 - Eliminar Videos: Eliminar videos específicos de la API fake.
 
 
-
-
-
-
-
-Navega por la lista de videos disponibles.
-Haz clic en un video para verlo en la pantalla principal.
-El título del video seleccionado se mostrará en el banner.
-
-
 ## Tecnologías Utilizadas
 
 - React: Una biblioteca de JavaScript para construir interfaces de usuario.
@@ -50,7 +40,7 @@ El diseño de éste proyecto se basó en el figma proporcionado por Alura, puede
 
 
 <div align="center">
-  <img src="./public/1.png" alt="Logo Alura" width="300"/>
+  <img src="./public/1.png" alt="Logo Alura" width="300", heigth/>
   <img src="./public/2.png" alt="Logo Alura" width="300"/>
   <img src="./public/3.png" alt="Logo Alura" width="300"/>
   <img src="./public/4.png" alt="Logo Alura" width="300"/>
