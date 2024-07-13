@@ -40,8 +40,8 @@ El diseño de éste proyecto se basó en el figma proporcionado por Alura, puede
 
 
 <div align="center">
-  <img src="./public/1.png" alt="Logo Alura" height: 50px;" />
-  <img src="./public/2.png" alt="Logo Alura" height: 50px;" />
-  <img src="./public/3.png" alt="Logo Alura" height: 50px;" />
+  <img src="./public/1.png" alt="Logo Alura" style="height: 50px;" />
+  <img src="./public/2.png" alt="Logo Alura" style="height: 50px;" />
+  <img src="./public/3.png" alt="Logo Alura" style="height: 50px;" />
 </div>
 
