@@ -45,8 +45,9 @@ El título del video seleccionado se mostrará en el banner.
 El diseño de éste proyecto se basó en el figma proporcionado por Alura, puedes ver el figma [aquí](https://www.figma.com/design/fq7mKIvvVXYylv8eti3hjm/New-AluraFlix---ESP?node-id=18759-221&t=IH7WsrXTHgOkpEWh-0). Se agregaron algunas animaciones y cambios menores al diseño pero sin salir del modelo original.
 
 
-
- <!--  -->
- <!-- -->
- <!--  -->
- <!--  -->
+<div align="center">
+  <img src="./public/1.png" alt="Logo Alura" width="300"/>
+  <img src="./public/2png" alt="Logo Alura" width="300"/>
+  <img src="./public/3.png" alt="Logo Alura" width="300"/>
+  <img src="./public/4.png" alt="Logo Alura" width="300"/>
+</div>
