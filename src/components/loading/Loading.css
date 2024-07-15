@@ -20,7 +20,7 @@
     text-align: center;
     padding: 20px;
     opacity: 0; /* Comienza con opacidad 0 para que sea invisible al principio */
-    animation: fadeIn 1s ease-in-out forwards; /* Animación de fade-in de 1 segundo */
+    animation: fadeIn 1s ease-in-out forwards;
 }
 
 @keyframes fadeIn {
